@@ -47,8 +47,21 @@ EasyShop is a fully functional e-commerce website with a Spring Boot API backend
   - **PUT**: Updates the quantity of a product in the cart.
 - Implemented code in `ShoppingCartDao` and `MySqlShoppingCartDao`.
 
+## Pictures
+- **FrontEnd/Website**: 
+    
+    <img src="images/frontend.png" width="500" height="400">
+
+- **Postman Testing**:
+    
+    <img src="images/postman_testing.png" width="500" height="400">
+
+- **BackEnd - One Interesting Code**:
+  
+    <img src="images/backend_addItem_code.png" width="500" height="400">
 ## Acknowledgments
 - This project is part of the capstone requirements for Pluralsight LTCA.
 - Thanks to Paul Kimball for guidance and support.
+- Thanks to Kary, Shankar, Alexis, Dipesh, Preen, Lizzy, Lizata! 
 
 
