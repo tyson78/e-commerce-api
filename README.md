@@ -12,7 +12,7 @@ EasyShop is a fully functional e-commerce website with a Spring Boot API backend
   - Frontend: HTML, CSS, JavaScript
 - ### Tools:
   - IntelliJ (Maven)
-    - Spring Framework
+    - Spring Boot Framework
   - MySQL Workbench
   - Postman
  
